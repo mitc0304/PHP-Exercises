@@ -259,3 +259,5 @@ should be contained by figcaption element):
   <img src="https://placehold.jp/24/e8d2ae/fff/300x300.png" alt="placeholder-image">
   <figcaption><?php echo "{$product}: {$total}" ?></figcaption>
 </figure>;
+
+
